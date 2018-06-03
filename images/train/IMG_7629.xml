@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_7629.JPG</filename>
+	<path>/Users/piyushmittal/Documents/Data/Git/MachineLearning/images/IMG_7629.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>242</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>135</ymin>
+			<xmax>214</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
